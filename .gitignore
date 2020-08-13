@@ -53,7 +53,7 @@
 .idea/**/modules.xml
 .idea/**/vcs.xml
 .idea/**/.name
-.idea/**/.iml
+.idea/**/MCTS-TSP.iml
 
 # Gradle
 .idea/**/gradle.xml
