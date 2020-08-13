@@ -50,8 +50,10 @@
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 .idea/**/misc.xml
-.ideal/**/modules.xml
+.idea/**/modules.xml
 .idea/**/vcs.xml
+.idea/**/.name
+.idea/**/.iml
 
 # Gradle
 .idea/**/gradle.xml
