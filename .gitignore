@@ -49,6 +49,9 @@
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+.idea/**/misc.xml
+.ideal/**/modules.xml
+.idea/**/vcs.xml
 
 # Gradle
 .idea/**/gradle.xml
